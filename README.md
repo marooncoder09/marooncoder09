@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Bhadoria</h1>
 <h3 align="center">Sophomore | Open Source Enthusiast | Problem Solving</h3>
 
+<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+
 - 🔭 I’m currently working on **some Web-Dev Projects**
 
 - 🌱 I’m currently learning **Data Structure Algorithms, JavaScript**
 
-- 📫 How to reach me **pratap.03.09@gmail.com**
+- 📫 How to reach me **spratap.03.09@gmail.com**
 
 - ⚡ Fun fact **semper paratus**
 
