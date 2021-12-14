@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Bhadoria</h1>
 <h3 align="center">Sophomore | Open Source Enthusiast | Problem Solving</h3>
 
-[giphy](https://user-images.githubusercontent.com/76483606/146062090-302455ae-d2a9-4692-9a1c-62a71182eacf.gif)
+  <img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="" width="480" height="360" align="centre">
 
 
 - 🔭 I’m currently working on **some Web-Dev Projects**
