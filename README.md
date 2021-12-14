@@ -4,12 +4,12 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marooncoder09&label=Profile%20views&color=0e75b6&style=flat" alt="marooncoder09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marooncoder09" alt="marooncoder09" /></a> </p> -->
-<img src="https://github.com/marooncoder09/marooncoder09/blob/main/giphy.gif" alt=" "  >
+<p align="center" ><img src="https://github.com/marooncoder09/marooncoder09/blob/main/giphy.gif" alt=" "  ></p>
 - 🔭 I’m currently working on **some Web-Dev Projects**
 
 - 🌱 I’m currently learning **Data Structure Algorithms, JavaScript**
 
-- 📫 How to reach me **pratap.03.09@gmail.com**
+- 📫 How to reach me **spratap.03.09@gmail.com**
 
 - ⚡ Fun fact **semper paratus**
 
