@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Bhadoria</h1>
 <h3 align="center">Sophomore | Open Source Enthusiast | Problem Solving</h3>
 
-  <img src="https://github.com/marooncoder09/marooncoder09/blob/main/giphy.gif" alt="gif" >
+  <img src="https://github.com/marooncoder09/marooncoder09/blob/main/giphy.gif" alt="gif" style="align-items: center ;">
 
 
 - 🔭 I’m currently working on **some Web-Dev Projects**
